@@ -1,2 +1,2 @@
 # MyJournalApp
-Belajar Proyek Aplikasi Data Persistance (membuat aplikasi catatan harian)
+Belajar android studio : <br> Proyek Aplikasi Data Persistance (aplikasi catatan harian)
